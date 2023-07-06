@@ -77,10 +77,20 @@ resource "aws_cloudfront_distribution" "s3_distribution" {
 }
 
 
+<<<<<<< HEAD
 # pushed to test branch
 
 
 # pushed to main branch
+=======
+# pushed to dev branch
+
+# Pushed to the main branch
+
+
+
+
+>>>>>>> dev
 
 
 
