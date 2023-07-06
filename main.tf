@@ -75,8 +75,6 @@ resource "aws_cloudfront_distribution" "s3_distribution" {
  default_root_object = "Pratham_CloudInfra_6.5yrs.pdf"
 
 }
-
-
 # pushed to dev branch
 
 
